@@ -1,0 +1,2 @@
+#!/bin/bash
+less /etc/host >> 2-hellofile
